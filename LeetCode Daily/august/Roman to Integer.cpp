@@ -8,6 +8,7 @@ public:
         int sum = mp[s[s.length()-1]];
         
         for(int i = s.length()-2 ; i>=0 ; i--)
+        
         {
             if(mp[s[i]] < mp[s[i+1]])
                 sum+= (-(mp[s[i]]));
