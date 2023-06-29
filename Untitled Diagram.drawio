@@ -1,9 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T15:29:44.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="FE5O22X6h7ajsNKqgh0O" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T16:20:44.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HzefqZts4omQ-6tAkr_P" version="21.5.2" type="github">
   <diagram name="Page-1" id="CxdetQx4C3n51C6PAXa7">
-    <mxGraphModel>
+    <mxGraphModel dx="1949" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="buSoWJYY9yAej7aw3y29-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-1" target="buSoWJYY9yAej7aw3y29-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-1" target="buSoWJYY9yAej7aw3y29-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-1" target="buSoWJYY9yAej7aw3y29-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-1" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-2" target="buSoWJYY9yAej7aw3y29-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-2" value="User Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-3" target="buSoWJYY9yAej7aw3y29-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-3" value="New Employee Onboarding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-4" value="Create, edit and delete old user or new users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-6" value="admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-15" value="Fields-&lt;br&gt;Name,&lt;br&gt;address,&lt;br&gt;Mobile Number,&lt;br&gt;Email Id,&lt;br&gt;Pan Card,&lt;br&gt;Aadhar Card,&lt;br&gt;Other Docments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="450" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-16" target="buSoWJYY9yAej7aw3y29-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-16" target="buSoWJYY9yAej7aw3y29-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-16" target="buSoWJYY9yAej7aw3y29-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-16" value="Employee Onboarded" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-17" target="buSoWJYY9yAej7aw3y29-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-17" target="buSoWJYY9yAej7aw3y29-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-17" value="Timer Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-18" target="buSoWJYY9yAej7aw3y29-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="1010" />
+              <mxPoint x="260" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-18" target="buSoWJYY9yAej7aw3y29-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="930" />
+              <mxPoint x="540" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-18" value="Leave Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-19" target="buSoWJYY9yAej7aw3y29-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-19" value="Calender Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-24" target="buSoWJYY9yAej7aw3y29-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-24" value="Timer will be started&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-25" target="buSoWJYY9yAej7aw3y29-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-25" value="Timer will be stopped" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-26" value="Timer panel for the respective manager,&lt;br&gt;or permitted user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-31" value="All the leaves of people which were not approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-32" target="buSoWJYY9yAej7aw3y29-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1120" />
+              <mxPoint x="190" y="1119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-32" value="User Apply for leave" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-33" target="buSoWJYY9yAej7aw3y29-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-33" value="Creates leaves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-36" target="buSoWJYY9yAej7aw3y29-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-36" value="FIelds:&lt;br&gt;Name the leave,&lt;br&gt;Specify the time,&lt;br&gt;number of leaves allowed in this interval,&lt;br&gt;type of leave(Paid/unpaid)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1260" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-41" target="buSoWJYY9yAej7aw3y29-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-41" value="User own yearly leaves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-44" value="Add leave to the calender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-47" target="buSoWJYY9yAej7aw3y29-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-47" value="Set everyday min time&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-49" value="Fields&lt;br&gt;Min time --max time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-51" value="Chat within Application in real time with employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
