@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T16:20:44.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HzefqZts4omQ-6tAkr_P" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T16:37:53.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PQZsmz9BVGYQbBgyV-rb" version="21.5.2" type="github">
   <diagram name="Page-1" id="CxdetQx4C3n51C6PAXa7">
-    <mxGraphModel dx="1949" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,11 @@
         <mxCell id="buSoWJYY9yAej7aw3y29-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-1" target="buSoWJYY9yAej7aw3y29-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-1" target="buSoWJYY9yAej7aw3y29-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="buSoWJYY9yAej7aw3y29-1" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,7 +47,7 @@
         <mxCell id="buSoWJYY9yAej7aw3y29-6" value="admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="buSoWJYY9yAej7aw3y29-15" value="Fields-&lt;br&gt;Name,&lt;br&gt;address,&lt;br&gt;Mobile Number,&lt;br&gt;Email Id,&lt;br&gt;Pan Card,&lt;br&gt;Aadhar Card,&lt;br&gt;Other Docments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="buSoWJYY9yAej7aw3y29-15" value="Fields-&lt;br&gt;Name,&lt;br&gt;address,&lt;br&gt;Mobile Number,&lt;br&gt;Email Id,&lt;br&gt;Pan Card,&lt;br&gt;Aadhar Card,&lt;br&gt;Other Docments&lt;br&gt;employeecode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="450" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="buSoWJYY9yAej7aw3y29-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-16" target="buSoWJYY9yAej7aw3y29-17">
@@ -160,7 +165,63 @@
           <mxGeometry x="30" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buSoWJYY9yAej7aw3y29-51" value="Chat within Application in real time with employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-58" target="buSoWJYY9yAej7aw3y29-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-58" value="Offboarding an employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-60" value="Employee will be removed from the system and data will be stored in this panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-62" target="buSoWJYY9yAej7aw3y29-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-62" target="buSoWJYY9yAej7aw3y29-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190.00000000000023" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-230" y="670" />
+              <mxPoint x="-230" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-62" value="Apply for referal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-65" value="Fields-&lt;br&gt;name,&lt;br&gt;mobile,&lt;br&gt;email,&lt;br&gt;relation,&lt;br&gt;resume,&lt;br&gt;position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="550" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-70" target="buSoWJYY9yAej7aw3y29-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-353" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-70" target="buSoWJYY9yAej7aw3y29-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-473" y="120" as="sourcePoint" />
+            <mxPoint x="-610" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buSoWJYY9yAej7aw3y29-70" target="buSoWJYY9yAej7aw3y29-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-70" value="Get payroll" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-72" value="requestfor payroll" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buSoWJYY9yAej7aw3y29-76" value="download payroll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
